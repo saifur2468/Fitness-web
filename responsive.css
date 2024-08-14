@@ -1,0 +1,331 @@
+
+@media screen and (max-width:576px) {
+    
+    /* footer section responsive */
+    .footer-sec{
+        width: 100%;
+        height: 100%;
+     }
+   
+     .footer-text h1{
+        font-size: 30px;
+        align-items: center;
+       margin-left: 100%;
+       width: auto;
+       height: auto;
+
+     }
+     .footer-text p{
+        font-size: 16px;
+        text-align: center;
+        margin-left: 100%;
+        
+     }
+     .footer-container{
+        flex-direction: column;
+       margin-top: 10%;
+}
+.footer-title h1{
+    width: auto;
+    height: auto;
+    font-size: 30px;
+    margin-left:-200%; 
+}
+.text1{
+    font-size: 16px;
+    margin-left:-200%; 
+
+}
+.text2{
+    font-size: 16px;
+    margin-left:-200%; 
+
+}
+.text3{
+    font-size: 16px;
+    margin-left:-200%; 
+
+}
+.text4{
+    font-size: 16px;
+    margin-left:-200%; 
+
+}
+.footer-titles h1{
+width: auto;
+height: auto;
+ font-size: 30px;
+ margin-left:-200%;
+ 
+}
+
+
+.text5{
+    font-size: 16px;
+    margin-left:-200%; 
+    
+
+}
+.text6{
+    font-size: 16px;
+    margin-left:-200%; 
+
+}
+.text7{
+    font-size: 16px;
+    margin-left:-200%; 
+
+}
+.text8{
+    font-size: 16px;
+    margin-left:-200%; 
+
+}
+
+/* Meat your Team */
+.team-head h1{
+    text-align: center;
+    font-size: 25px;
+    margin: auto;
+}
+.team-head p {
+    text-align: center;
+    font-size: 16px;
+    margin: auto;
+   
+}
+
+.container{
+    grid-template-columns: repeat(1,1fr);
+    margin-left: 35%;
+    width: 350px;
+   height: 1560px;
+}
+
+.trainer img {
+    position: relative;
+    width: 350px;
+    height: 250px;
+  
+ }
+
+
+
+/* Bmi Section */
+.bmi-title h1{
+    font-size: 25px;
+    
+}
+.bmi-title p {
+    font-size: 16px;
+    margin-left: 30%
+}
+
+
+.bmi-container{
+    flex-direction: column;
+    margin-top: 10%;
+    width: 100%;
+    height: 800px;
+}
+.bmi-from h1{
+    font-size: 25px;
+    margin-left:20%;
+}
+.bmi-from p{
+    font-size: 16px;
+    margin-left:5%;
+
+}
+
+.height-cm{
+    width: 150px;
+    height: 25px;
+    margin-left: 30%;
+}
+.weight-kg{
+    width: 150px;
+    height: 25px;
+    margin-right: 15%;
+}
+.old{
+    width: 150px;
+    height: 25px;
+    margin-left: 30%;
+}
+.gender{
+    width: 240px;
+    height: 50px;
+    margin-right: 15%;
+}
+.activity{
+    width: 500px;
+    height: 50px;
+    margin-left: 30%;
+}
+.bmi-cal{
+    width: 150px;
+    height: 54px;
+    margin-left: 30%;
+}
+
+
+
+/* run section */
+.run-section{
+    flex-direction: column;
+    width: 100%;
+    height: 550px;
+
+}
+.run-text h2{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 45%;
+}
+.run-text p{
+    font-size: 14px;
+    text-align: left;
+    margin-left: 45%;
+}
+.btn-join{
+    width: 250px;
+    height: 54px;
+    margin-left: 45%;
+  
+}
+.run-text img{
+    flex-direction: column;
+    width: 366px;
+    height: 312px;
+    margin-left: 35%;
+    border-radius: 20px;
+    margin-top: 40%;
+
+}
+/* Change your Habbti Responsive Section */
+.chang-habbit h1{
+    font-size: 25x;
+    text-align: left;
+    margin-left: 45%;
+}
+.chang-habbit p{
+    font-size: 16px;
+    text-align: left;
+    margin-left: 45%;
+}
+.image-container{
+    flex-direction: column;
+    margin-left: 45%;
+}
+.change-image h4{
+    font-size: 16px;
+    text-align: left;
+    margin-left: 5%;
+}
+.change-image p{
+    font-size: 16px;
+    text-align: left;
+   margin-left: -10%;
+}
+/* uniqe  challenge Section part */
+
+.uniqe-text{
+    font-size: 20px;
+    text-align: left;
+}
+.uniqe-container{
+    width: 100%;
+    height: 1250px;
+}
+
+.uniqeimage-con{
+  grid-template-columns: repeat(1,1fr);
+  margin-left: 30%;
+ 
+}
+
+/* <!-- banner part --> */
+.text-content h1 {
+    font-size: 30px;
+    text-align: left;
+    /* margin-left: 75%; */
+}
+.text-content p{
+    font-size: 16px;
+    text-align: left;
+    /* margin-left: %; */
+    margin-top: -25%;
+}
+.btn-1{
+ width: 150px;
+ height: 54px;
+/* margin-left: 85%; */
+
+}
+.btn-2{
+    width: 150px;
+    height: 54px;
+    /* margin-left: 85%; */
+    
+}
+.image-section img {
+    flex-direction: column;
+    width: 300px;
+    height: 520px;
+   margin-left:-130%;
+}
+.banner-container{
+    flex-direction: column;
+    margin-left:22%;
+}
+
+.container-sec h1{
+    margin-left:-400%;
+   margin-top: 75%;
+  
+    
+}
+.container-sec p{
+    margin-left:-400%;
+}
+.container-sections h1{
+    margin-left:-500%;
+    margin-top: 250px;
+   
+}
+.container-sections p{
+    margin-left:-500%;
+  
+   
+}
+
+.nav-title{
+    font-size: 30px;
+   text-align: left;
+   margin-left:-25%;
+}
+nav,nav ul{
+    flex-direction: column;
+
+}
+nav ul{
+    border:none;
+    display: block;
+
+} 
+nav ul li {
+   display: block;
+   
+}
+
+
+
+
+
+
+
+
+
+
+}
